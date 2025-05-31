@@ -1,0 +1,6 @@
+
+<ui-menu-radio-group <?php echo e($attributes); ?> data-flux-menu-radio-group>
+    <?php echo e($slot); ?>
+
+</ui-menu-radio-group>
+<?php /**PATH C:\xampp\htdocs\web2\prakrikum-10\room-booking\room-booking\vendor\livewire\flux\src/../stubs/resources/views/flux/menu/radio/group.blade.php ENDPATH**/ ?>
